@@ -1,19 +1,19 @@
 {
-    "name": "learn-js",
+    "name": "moduleC7_homework",
     "version": "1.0.0",
     "description": "js examples for fast learning",
-    "main": "index.js",
+    "main": "invert.js",
     "scripts": {
       "test": "jest"
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/aneelia/learn-js.git"
+      "url": "https://github.com/Lom125/moduleC7_homework.git"
     },
-    "author": "aneelia",
+    "author": "Lom25",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/aneelia/learn-js/issues"
+      "url": "https://github.com/Lom125/moduleC7_homework/issues"
     },
     "homepage": "https://github.com/aneelia/learn-js#readme",
     "devDependencies": {
